@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Suvankar+Nayak;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Full Stack Developer | JavaScript Enthusiast | Tech Learner</h3>
 
 <p align="center">
   Passionate about building modern, responsive web applications using <strong>React</strong>, <strong>Node.js</strong>, and <strong>Django</strong>.  
