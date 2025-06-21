@@ -1,7 +1,5 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/C6H0JvW.png" alt="Banner" width="100%" />
-</p>
+
+
 
 # 💻 Hi, I'm Suvankar Nayak
 <div align="center">
