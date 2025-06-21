@@ -1,18 +1,15 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Suvankar+Nayak;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-</h1>
+<h3 align="center">Full Stack Developer & Web Enthusiast</h3>
 
 <p align="center">
-  Passionate about building responsive and scalable web applications using modern full-stack technologies.  
-  I love writing clean, maintainable code and crafting seamless user experiences.
+  Passionate about building scalable, responsive web applications using modern full-stack technologies.  
+  Focused on writing clean, efficient code and delivering seamless user experiences with thoughtful design.  
+  I'm currently working on <em>modern web apps using React, Node.js, Django, and MongoDB</em> 💬  
+  Ask me about <em>full-stack development, REST APIs, and front-end performance optimization</em>
 </p>
 
-<p align="center">
-  💻 Currently working with <strong>React</strong>, <strong>Node.js</strong>, <strong>Django</strong>, and <strong>MongoDB</strong><br>
-  💬 Ask me about <strong>Full-stack development</strong>, <strong>REST APIs</strong>, and <strong>modern UI design</strong>
-</p>
+- ⚡ <strong>Fun fact:</strong> I love crafting sleek UIs and bringing them to life with animations  
+- 📫 <strong>How to reach me:</strong> <a href="mailto:suvankarnayak207@gmail.com">suvankarnayak207@gmail.com</a>
 
----
 
 ## 🚀 About Me
 
