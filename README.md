@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Suvankar+Nayak;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</h1><br>
+
 <h3 align="center">Full Stack Developer & Web Enthusiast</h3>
 
 <p align="center">
@@ -8,8 +12,10 @@
 </p>
 
 - ⚡ <strong>Fun fact:</strong> I love crafting sleek UIs and bringing them to life with animations  
-- 📫 <strong>How to reach me:</strong> <a href="mailto:suvankarnayak207@gmail.com">suvankarnayak207@gmail.com</a>
+- 📫 <strong>How to reach me:</strong> <a href="mailto:suvankarnayak207@gmail.com">suvankarnayak207@gmail.com</a><br>
 
+
+---
 
 ## 🚀 About Me
 
