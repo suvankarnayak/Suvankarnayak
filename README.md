@@ -50,21 +50,9 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suvankarnayak&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&custom_title=My%20Development%20Activity" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvankarnayak&layout=compact&theme=nightowl&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvankarnayak&theme=react-dark&hide_border=true&area=true" width="90%" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvankarnayak&theme=nightowl&hide_border=true" width="48%" />
-  <img src="https://raw.githubusercontent.com/suvankarnayak/suvankarnayak/output/github-contribution-grid-snake.svg" width="48%" />
-</div>
 
----
 
 ## 📫 Connect With Me
 
