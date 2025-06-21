@@ -5,42 +5,44 @@
 
 # 💻 Hi, I'm Suvankar Nayak
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F7FF&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Electronics+Hobbyist" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F7FF&width=500&lines=Full-Stack+Developer;Web+Developer;Open-Source+Contributor" alt="Typing animation" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech ECE student @ **VIT**, passionate about:
-- ⚛️ **Full-stack development** (React, Node.js, Django)
-- 🔌 **Electronics prototyping** (Arduino, Raspberry Pi)
-- 🤖 Building hardware+software integrated systems
-- 🧼 Clean, maintainable code with a focus on UX
+🎓 B.Tech student @ **VIT**, passionate about:
+- 💻 **Full-stack web development** with modern tech
+- 🎯 Building clean, responsive, and scalable apps
+- 🎨 Creating great user experiences with attention to design
+- 🧼 Writing maintainable, efficient, and reusable code
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,mongodb,arduino,raspberrypi,figma,git,vscode&perline=6" alt="Skill icons" />
-</p>
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## 🌟 Featured Projects
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-| Project | Description | Tech | Links |
-|--------|-------------|------|-------|
-| **[🌦️ Weather Dashboard](https://github.com/suvankarnayak/weather-app)** | Real-time weather app with public API integration and dynamic UI rendering | React, TailwindCSS, REST API | [![Live Demo](https://img.shields.io/badge/Live-00F7FF?style=for-the-badge)](https://weather-app.suvankarnayak.vercel.app) |
-| **[🔒 Secure Password Generator](https://github.com/suvankarnayak/password-generator)** | Custom password tool with strength feedback and clipboard support | JavaScript, CSS3 | [![Try Online](https://img.shields.io/badge/Try-00F7FF?style=for-the-badge)](https://suvankarnayak.github.io/password-generator) |
-| **[🤖 E-Waste Robotic Arm](https://github.com/suvankarnayak/robotic-arm)** | Sustainable Arduino-powered robotic arm made from e-waste | Arduino, C++, Servo Motors | [![Demo](https://img.shields.io/badge/Video-Demo-00F7FF?style=for-the-badge)]() |
-
-</div>
-
----
 
 ## 📊 GitHub Analytics
 
