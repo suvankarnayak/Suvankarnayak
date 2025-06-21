@@ -1,12 +1,13 @@
-
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Suvankar+Nayak;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Suvankar+Nayak;Full+Stack+Developer;Web+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=00F7FF&width=500&lines=Full-Stack+Developer;Web+Developer;Open-Source+Contributor" alt="Typing animation" />
-</div>
+
+<h3 align="center">Full Stack Developer | JavaScript Enthusiast | Tech Learner</h3>
+
+<p align="center">
+  Passionate about building modern, responsive web applications using <strong>React</strong>, <strong>Node.js</strong>, and <strong>Django</strong>.  
+  I enjoy crafting clean UIs, scalable backends, and meaningful user experiences.
+</p>
 
 ---
 
@@ -43,6 +44,7 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
 ## 📊 GitHub Analytics
 
